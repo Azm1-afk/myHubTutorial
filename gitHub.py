@@ -15,3 +15,11 @@ print('written in the repo via the remote; remote is the version of the project 
 print('change 1 committed')
 
 print('change 2 committed.')
+
+print('\nExercise:')
+
+#Filler code
+
+def show_employee(name, salary=9000):
+    print(name, salary)
+
