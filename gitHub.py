@@ -13,3 +13,5 @@ print('This line of code was written in branch replica_branch and it is not visi
 print('written in the repo via the remote; remote is the version of the project that is hosted online.')
 
 print('change 1 committed')
+
+print('change 2 committed.')
