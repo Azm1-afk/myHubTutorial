@@ -4,8 +4,8 @@
 
 # This comment line was added through the online repo on GitHub.com again
 
-
 print('This line was written through the online repo.')
 
-
 #The following lines were added in a different branch (not main).
+
+print('This line of code was written in branch replica_branch and it is not visible in main until merging the pull request.')
